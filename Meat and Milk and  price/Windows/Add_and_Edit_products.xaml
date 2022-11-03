@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Meat_and_Milk_and__price.Windows"
         mc:Ignorable="d"
-        Title="Add_and_Edit_products" Height="450" Width="800">
+        Title="Add_and_Edit_products" Height="450" Width="800" ResizeMode="NoResize">
     <Grid>
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">

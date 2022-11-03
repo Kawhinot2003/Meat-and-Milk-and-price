@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Meat_and_Milk_and__price.Windows"
         mc:Ignorable="d"
-        Title="Product_Group" Height="450" Width="800">
+        Title="Product_Group" Height="450" Width="800" ResizeMode="NoResize">
     <Grid>
         <StackPanel Orientation="Vertical">
             <TextBlock Text="Страница с группами продуктов" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center"/>
